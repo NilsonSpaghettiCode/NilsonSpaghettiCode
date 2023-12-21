@@ -7,11 +7,11 @@
 </p>
 </br>
 
-
 <!-- About me -->
-##### About me 🚀
-I am a software developer, I like to learn new things and I am always looking for new challenges. I am currently studying computer science at the Universidad UNIMINUTO. I am passionate about technology and I am always looking for new ways to improve my skills.
 
+##### About me 🚀
+
+I am a software developer, I like to learn new things and I am always looking for new challenges. I am currently studying computer science at the Universidad UNIMINUTO. I am passionate about technology and I am always looking for new ways to improve my skills.
 
 <details>
 <summary><h2>🛠️ Tools</h2></summary>
@@ -78,5 +78,14 @@ I am a software developer, I like to learn new things and I am always looking fo
       <a href="#"><img alt="OBS Studio" src="https://img.shields.io/badge/-OBS-302E31?logo=obs-studio&logoColor=white"></a>
       <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
       <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+  </p>
+</details>
+
+
+<details>
+<summary><h2>📷 Gallery</h2></summary>
+  <h3>👨‍💻 Unity Inventory System</h3>
+  <p>
+  <a href="https://github.com/NilsonSpaghettiCode/InventorySystemUnity"><img src="./resources/system_inventory.gif"></a>
   </p>
 </details>
